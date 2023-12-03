@@ -1,6 +1,6 @@
 # Computational-Intelligence-SecondProject
 
-Welcome to the README for our Computational Intelligence project, where we explore feature selection and segmentation to improve the accuracy and speed of a seizure detection model. This project consists of three main components: feature evaluation and selection, improved accuracy with segmentation, and evaluation with different topics.
+In this project, we explore feature selection and segmentation to improve the accuracy and speed of a seizure detection model. This project consists of three main components: feature evaluation and selection, improved accuracy with segmentation, and evaluation with different topics.
 
 ## Project Overview
 
@@ -37,7 +37,7 @@ The dataset used in this project can be accessed at the following link: [Dataset
 ## Authors
 
 - Mehrnaz Sadeghieh
-- Faridreza Momtaz Zandi
+- Helia Ghahraman
 
 ***
 
